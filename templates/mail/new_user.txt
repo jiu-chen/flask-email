@@ -1,0 +1,3 @@
+User {{ user.username }} has joined.
+<br>
+Welcome <b>{{ user.username }}</b> !
